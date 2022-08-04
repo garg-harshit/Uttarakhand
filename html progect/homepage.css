@@ -1,0 +1,155 @@
+body {
+    background-size: cover;
+    width: 99.2%;
+    height: 690px;
+    position: absolute;
+}
+
+#aaaa #bbbb {
+    position: absolute;
+    margin-top: 60px;
+    width: 100%;
+    color: yellow;
+    font-size: 35px;
+    height: 100px;
+}
+
+#c {
+    margin-top: 800px;
+    margin-left: 0%;
+    margin-right: 0%;
+    position: absolute;
+}
+
+.gggg {
+    font-size: 25px;
+}
+
+a {
+    color: #000033;
+}
+
+p {
+    color: #000033;
+}
+
+h1 {
+    margin: 0;
+    font-size: 50px;
+    font-family: alzebra;
+    position: absolute;
+}
+
+.navbar {
+    width: auto;
+    background-color: green;
+    overflow: auto;
+    margin-top: -27px;
+}
+
+
+/* Navbar links */
+
+.navbar a {
+    float: left;
+    text-align: center;
+    padding: 12px;
+    color: rgb(17, 16, 16);
+    text-decoration: none;
+    font-size: 25px;
+}
+
+
+/* Navbar links on mouse-over */
+
+.navbar a:hover {
+    background-color: rgb(255, 255, 0);
+}
+
+
+/* Current/active navbar link */
+
+.active {
+    background-color: rgb(255, 255, 0);
+}
+
+
+/* Add responsiveness - will automatically display the navbar vertically instead of horizontally on screens less than 500 pixels */
+
+@media screen and (max-width: 500px) {
+    .navbar a {
+        float: none;
+        display: block;
+    }
+}
+
+#para {
+    position: absolute;
+    font-size: 20px;
+}
+
+#gallery {
+    margin-top: 160px;
+    margin-left: 41%;
+}
+
+#pica {
+    margin-top: 150px;
+    margin-left: 3.3%;
+    position: absolute;
+}
+
+#picb {
+    margin-top: 150px;
+    margin-left: 36%;
+    position: absolute;
+}
+
+#picc {
+    margin-top: 150px;
+    margin-left: 68.66%;
+    position: absolute;
+}
+
+#picf {
+    margin-top: 500px;
+    margin-left: 3.3%;
+    position: absolute;
+}
+
+#picd {
+    margin-top: 500px;
+    margin-left: 68.66%;
+    position: absolute;
+}
+
+#pice {
+    margin-top: 500px;
+    margin-left: 36%;
+    position: absolute;
+}
+
+#picg {
+    margin-top: 850px;
+    margin-left: 3.3%;
+    position: absolute;
+}
+
+#pich {
+    margin-top: 850px;
+    margin-left: 36%;
+    position: absolute;
+}
+
+#pici {
+    margin-top: 850px;
+    margin-left: 68.66%;
+    position: absolute;
+}
+
+#end {
+    font-size: 40px;
+    margin-top: 1370px;
+    height: 100px;
+    margin-left: 290px;
+}

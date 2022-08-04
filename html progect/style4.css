@@ -1,0 +1,23 @@
+body {
+    background-color: hsla(344, 56%, 89%, 0.486);
+}
+
+#a,
+#b {}
+
+table {
+    width: 100%;
+}
+
+.y {
+    height: 400px;
+    width: 100%;
+}
+
+p {
+    font-size: 30px;
+}
+
+.head {
+    font-size: 45px;
+}

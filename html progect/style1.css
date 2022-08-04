@@ -1,0 +1,23 @@
+body {
+    background-color: #91e0ff;
+}
+
+#a,
+#b {}
+
+table {
+    width: 100%;
+}
+
+.y {
+    height: 400px;
+    width: 100%;
+}
+
+p {
+    font-size: 30px;
+}
+
+.head {
+    font-size: 45px;
+}
